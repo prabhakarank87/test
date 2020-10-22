@@ -1,3 +1,4 @@
+// Emulator API
 namespace Emulator.Api
 {
     using Microsoft.AspNetCore.Hosting;
